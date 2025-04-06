@@ -32,7 +32,7 @@ Lobe diagrams illustrate the stability regions in machining processes. They help
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/jayjatgit/project.git
 
 2. **Install Dependencies: Ensure you have the required Python libraries installed:**
    ```bash
